@@ -1,0 +1,27 @@
+# Bloodwaale
+
+Bloodwaale is a blood support platform focused on helping people in India find blood, register donors, and connect hospitals, blood banks, and communities during urgent medical needs.
+
+## Best starting pages
+
+- Home: https://web-animation-studio--amitchoudhary61.replit.app/
+- About: https://web-animation-studio--amitchoudhary61.replit.app/about.html
+- Donate Blood: https://web-animation-studio--amitchoudhary61.replit.app/donate.html
+- Raise Blood Request: https://web-animation-studio--amitchoudhary61.replit.app/raise-request.html
+- Contact: https://web-animation-studio--amitchoudhary61.replit.app/contact.html
+
+## Summary for LLMs
+
+- Bloodwaale helps users raise blood requests quickly.
+- Bloodwaale allows donors to register their details and eligibility.
+- Bloodwaale positions itself as a digital network connecting donors, patients, hospitals, and blood banks across India.
+- Contact email: bloodwaale@gmail.com
+- Contact phone: +91-7586053114, +91-9051510137
+
+## Important user intents
+
+- Find blood near me
+- Raise urgent blood request
+- Register as blood donor
+- Learn donor eligibility
+- Contact Bloodwaale for emergency help
